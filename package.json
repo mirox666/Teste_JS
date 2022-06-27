@@ -1,0 +1,23 @@
+{
+  "name": "teste_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirox666/Teste_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirox666/Teste_JS/issues"
+  },
+  "homepage": "https://github.com/mirox666/Teste_JS#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
